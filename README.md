@@ -6,8 +6,8 @@ Finaura helps college students and young professionals understand whether their 
 
 Requirements: Node.js 24 LTS and npm.
 
-1. In PowerShell, run `npm.cmd install` from the project folder.
-2. Start the browser app and local service with `npm.cmd run dev`.
+1. In PowerShell, run `npm install` from the project folder.
+2. Start the browser app and local service with `npm run dev`.
 3. Open the Vite URL printed by the terminal (usually <http://127.0.0.1:5173/>). If that port is busy, Vite prints another one.
 4. The fictional sample loads first. Click **Use my numbers** to enter personal figures; those are kept for the current browser session only.
 
